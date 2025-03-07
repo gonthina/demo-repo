@@ -1,2 +1,2 @@
-// added comment from github directly
+# added comment from github directly
 print("test file one")
